@@ -1,0 +1,13 @@
+{
+  "allowedPackages": [
+    "network.loki.messenger",
+    "org.thoughtcrime.securesms",
+    "org.briarproject.briar.android",
+    "im.molly.app",
+    "chat.simplex.app",
+    "ch.protonvpn.android",
+    "im.vector.app",
+    "me.lucky.wasted"
+  ]
+}
+
