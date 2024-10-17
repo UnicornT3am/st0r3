@@ -1,6 +1,5 @@
 {
   "allowedPackages": [
-    "network.loki.messenger",
     "org.thoughtcrime.securesms",
     "org.briarproject.briar.android",
     "im.molly.app",
